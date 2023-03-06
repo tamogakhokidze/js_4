@@ -67,17 +67,17 @@
 //  ყვეკა სხვა დანარჩენ შემთხვევაში დაიბეჭდოს - error;
 
 
-function largestFunction (x, y) {
-    if (x > y) {
-        console.log('num1 is the largest');
-    }
-    else if ( y > x) {
-        console.log('num2 is the largest');
-    }
-    else {
-        error;
-    }
+// function largestFunction (x, y) {
+//     if (x > y) {
+//         console.log('num1 is the largest');
+//     }
+//     else if ( y > x) {
+//         console.log('num2 is the largest');
+//     }
+//     else {
+//         error;
+//     }
 
-}
-let result = largestFunction(10, 5);
-console.log(result);
+// };
+// let result = largestFunction(2, 5);
+// console.log(result);
